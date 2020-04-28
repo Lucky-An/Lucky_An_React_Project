@@ -19,3 +19,15 @@
    ##### 5. 清除默认样式  minreset  
    ##### 6. 编写login页面  注意图片import 引入
    ##### 7. input   校验   两种规则
+   ##### 8. axios 请求 /login  配置代理   参数类型 urlencoded  querystring  object转urlencoded
+   ##### 9. 配置请求拦截器
+   ####   post请求  json编码问题   转化为   urlencoded  
+   ####   新建api文件夹    新建  ajax.js   对axios二次封装   超时  请求基础路径
+
+    请求方式 GET POST PUT DELETE 
+    参数种类：query、params、请求体参数
+
+
+    除了get不能携带请求体参数   别的请求方式和参数种类都可以随意组合
+    query？ddd='d'&dddds='ddsd'
+    params   login/123
