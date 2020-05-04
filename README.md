@@ -31,3 +31,7 @@
     除了get不能携带请求体参数   别的请求方式和参数种类都可以随意组合
     query？ddd='d'&dddds='ddsd'
     params   login/123
+# day02redux
+
+
+###  老师我搞vue呢   暂时不跟react项目了   为了不影响大家 我进度就随便报了
